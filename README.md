@@ -11,15 +11,15 @@ A Colorado Board of Elections employee has given us the following tasks to compl
 We created a python script that could read and write data, perform calculations on the counts and percentages, and display winning results.
 
 - There were 369,711 votes cast in the election.
-- The three candidates were:
+- Candidates:
   - Charles Casper Stockham
   - Diana DeGette
   - Raymon Anthony Doane
-- With the candidate results being:
+- Results:
   - Charles Casper Stockham received 23.0% of the vote and 85,213 number of votes.
   - Diana DeGette received 73.8% of the vote and 272,892 number of votes.
   - Candidate 3 received 3.1% of the vote and 11,606 number of votes.
-- The winner of the election was:
+- Winner:
   - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
 
 ### Resources
