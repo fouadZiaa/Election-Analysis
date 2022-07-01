@@ -59,7 +59,7 @@ Winning Vote Count: 272,892
 Winning Percentage: 73.8%
 -------------------------
 
- Picture of output: https://github.com/fouadZiaa/Election-Analysis/blob/b45b2cc5050d0fed47e1d83928173f7032217089/Analysis/Screen%20Shot%202022-07-01%20at%209.37.22%20AM.png
+ Picture of output: Analysis/Screen Shot 2022-07-01 at 9.37.22 AM.png
  
 ## Challenge Overview
 
