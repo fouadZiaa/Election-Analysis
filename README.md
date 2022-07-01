@@ -64,7 +64,7 @@ Winning Percentage: 73.8%
 > We helped Seth and Tom submit the election audit results to the election commission using the following process flow:
 
 1. Read the provided data from dataset.
-2. Record names of counties and calculate the total number of votes cast.\*
+2. Record names of counties and calculate the total number of votes cast.
 3. Retrieve the list of candidates who received votes.
 4. Calculate the total number of votes each candidates.
 5. Calculate the percentage of votes each candidate.
