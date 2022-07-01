@@ -29,7 +29,7 @@ We created a python script that could read and write data, perform calculations 
 
 ### Output
 
-> An outlined report located in the analysis folder under election_analysis.txt has been submitted.
+> An outlined report located in the analysis folder under election_analysis.txt has been submitted. The terminal screen output looks like this:
 
 Election Results
 -------------------------
@@ -59,6 +59,7 @@ Winning Vote Count: 272,892
 Winning Percentage: 73.8%
 -------------------------
 
+ Picture of output: 
 ## Challenge Overview
 
 > We helped Seth and Tom submit the election audit results to the election commission using the following process flow:
@@ -66,8 +67,8 @@ Winning Percentage: 73.8%
 1. Read the provided data from dataset.
 2. Record names of counties and calculate the total number of votes cast.
 3. Retrieve the list of candidates who received votes.
-4. Calculate the total number of votes each candidates.
-5. Calculate the percentage of votes each candidate.
+4. Calculate the total number of votes for each candidates.
+5. Calculate the percentage of votes for each candidate.
 6. Determine the winner of the election based on popular vote.
 
 
