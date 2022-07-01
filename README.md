@@ -59,7 +59,7 @@ Winning Vote Count: 272,892
 Winning Percentage: 73.8%
 -------------------------
 
- Picture of output: Analysis/Screen Shot 2022-07-01 at 9.37.22 AM.png
+ Picture of output: ![alt text]
  
 ## Challenge Overview
 
